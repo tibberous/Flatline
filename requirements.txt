@@ -1,0 +1,10 @@
+# Flatline Python Process Debugger — dependencies
+# ================================================
+# Core debugger (flatline.py, source/remote_client.py):
+#   No required dependencies — uses Python stdlib only.
+#
+# Demo app (app.py):
+PySide6>=6.4.0
+#
+# Optional MariaDB heartbeat logging:
+# pymysql>=1.0.0

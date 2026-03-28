@@ -1,0 +1,2089 @@
+[Flatline] Child launched  pid=40380  argv=C:\Users\moren\Desktop\flatline_v1.0b\flatline\example.py
+[stdout] Flatline Example � v1.0b  (2026-03-28)
+[stdout] Supervising  : C:\Users\moren\Desktop\flatline_v1.0b\flatline\app.py
+[stdout] MD5          : 9eff10f3
+[stdout] Extra args   : (none)
+[stdout] [Flatline] Heartbeat mode: proc.poll()
+[stdout] [Flatline] Relay  127.0.0.1:54197
+[stdout] [Flatline] Watchdog  freeze=2.5s  mode=poll
+[stdout] [Flatline] REPL  127.0.0.1:5050  (nc localhost 5050)
+[stdout] [example] Relay port : 54197
+[stdout] [example] Socket REPL: nc localhost 5050
+[stdout] [example] Ctrl+C to terminate child
+[Flatline] Child launched  pid=39176  argv=C:\Users\moren\Desktop\flatline_v1.0b\flatline\app.py
+[stdout] [Flatline] Child launched  pid=39176
+[stdout] [Flatline] Attached pid=39176
+
+╔══════════════════════════════════════════════════════════════╗
+║                    Flatline Debug Console                    ║
+╠══════════════════════════════════════════════════════════════╣
+║  [FLATLINED TODAY @ 15:02:16.674796 after SHOW in Flatline::AppWindow]║
+║  Exception : ManualDebug: Manually entered debug console (D key)║
+║  Parent PID: 40380   Child PID: 39176                        ║
+║  Mode      : proc.poll()                                     ║
+║  lastPolled : 1774724536.674796                              ║
+║  Time      : 2026-03-28 15:02:16                             ║
+╠══════════════════════════════════════════════════════════════╣
+║  1 stack   2 vars    3 close   4 SIGTERM  5 KILL        ║
+║  6 refresh 7 shell   8 conns   9 monitor                ║
+║  R restart S status  Q quit                              ║
+╚══════════════════════════════════════════════════════════════╝
+[stderr] \u2554\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2557
+[stderr] \u2551                    Flatline Debug Console                    \u2551
+[stderr] \u2560\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2563
+[stderr] \u2551  [FLATLINED TODAY @ 15:02:16.674796 after SHOW in Flatline::AppWindow]\u2551
+[stderr] \u2551  Exception : ManualDebug: Manually entered debug console (D key)\u2551
+[stderr] \u2551  Parent PID: 40380   Child PID: 39176                        \u2551
+[stderr] \u2551  Mode      : proc.poll()                                     \u2551
+[stderr] \u2551  lastPolled : 1774724536.674796                              \u2551
+[stderr] \u2551  Time      : 2026-03-28 15:02:16                             \u2551
+[stderr] \u2560\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2563
+[stderr] \u2551  1 stack   2 vars    3 close   4 SIGTERM  5 KILL        \u2551
+[stderr] \u2551  6 refresh 7 shell   8 conns   9 monitor                \u2551
+[stderr] \u2551  R restart S status  Q quit                              \u2551
+[stderr] \u255a\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u255d
+[stderr] [Flatline] Console closed
+================================================================
+  SNAPSHOT
+================================================================
+  [FLATLINED TODAY @ 15:02:16.674796 after SHOW in Flatline::AppWindow]
+  Exception: ManualDebug: Manually entered debug console (D key)
+  PID: 39176  Mode: poll
+  lastPolled: 1774724536.674796
+[Flatline] Stack  PID=40380  threads=11
+
+  --- FlatlineSnapshot  10700[d] ---
+    C:\Python312\Lib\threading.py:1030 in _bootstrap
+      self._bootstrap_inner()
+    C:\Python312\Lib\threading.py:1073 in _bootstrap_inner
+      self.run()
+    C:\Python312\Lib\threading.py:1010 in run
+      self._target(*self._args, **self._kwargs)
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1320 in _r
+      try: target()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1227 in _run
+      stack = '\n'.join(header) + self._frames()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1254 in _frames
+      for item in traceback.extract_stack(frame):
+
+  --- FlatlineKeyReader  17424[d] ---
+    C:\Python312\Lib\threading.py:1030 in _bootstrap
+      self._bootstrap_inner()
+    C:\Python312\Lib\threading.py:1073 in _bootstrap_inner
+      self.run()
+    C:\Python312\Lib\threading.py:1010 in run
+      self._target(*self._args, **self._kwargs)
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1320 in _r
+      try: target()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:784 in _keyReader
+      self._keyReaderWindows()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:809 in _keyReaderWindows
+      time.sleep(0.05)
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:838 in _openManualDebug
+      self._openConsole({
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1038 in _openConsole
+      if block:
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1242 in _snapshotAsync
+      t.start()
+    C:\Python312\Lib\threading.py:997 in start
+      self._started.wait()
+    C:\Python312\Lib\threading.py:652 in wait
+      with self._cond:
+    C:\Python312\Lib\threading.py:365 in wait
+      if not gotit:
+
+  --- FlatlinePoll  15904[d] ---
+    C:\Python312\Lib\threading.py:1030 in _bootstrap
+      self._bootstrap_inner()
+    C:\Python312\Lib\threading.py:1073 in _bootstrap_inner
+      self.run()
+    C:\Python312\Lib\threading.py:1010 in run
+      self._target(*self._args, **self._kwargs)
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1320 in _r
+      try: target()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:862 in _pollLoop
+      while not self._pollStop.wait(self._pollInterval):
+    C:\Python312\Lib\threading.py:655 in wait
+      signaled = self._cond.wait(timeout)
+    C:\Python312\Lib\threading.py:359 in wait
+      gotit = waiter.acquire(True, timeout)
+
+  --- FlatlinePump:stderr  13012[d] ---
+    C:\Python312\Lib\threading.py:1030 in _bootstrap
+      self._bootstrap_inner()
+    C:\Python312\Lib\threading.py:1073 in _bootstrap_inner
+      self.run()
+    C:\Python312\Lib\threading.py:1010 in run
+      self._target(*self._args, **self._kwargs)
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1320 in _r
+      try: target()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1394 in _run
+      for line in pipe:
+
+  --- FlatlinePump:stdout  37528[d] ---
+    C:\Python312\Lib\threading.py:1030 in _bootstrap
+      self._bootstrap_inner()
+    C:\Python312\Lib\threading.py:1073 in _bootstrap_inner
+      self.run()
+    C:\Python312\Lib\threading.py:1010 in run
+      self._target(*self._args, **self._kwargs)
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1320 in _r
+      try: target()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1394 in _run
+      for line in pipe:
+
+  --- FlatlineREPL  1436[d] ---
+    C:\Python312\Lib\threading.py:1030 in _bootstrap
+      self._bootstrap_inner()
+    C:\Python312\Lib\threading.py:1073 in _bootstrap_inner
+      self.run()
+    C:\Python312\Lib\threading.py:1010 in run
+      self._target(*self._args, **self._kwargs)
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1320 in _r
+      try: target()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:971 in <lambda>
+      target=self._wrap(lambda: self._replServer.serve_forever(poll_interval=0.5), 'REPL'),
+    C:\Python312\Lib\socketserver.py:235 in serve_forever
+      ready = selector.select(poll_interval)
+    C:\Python312\Lib\selectors.py:323 in select
+      r, w, _ = self._select(self._readers, self._writers, [], timeout)
+    C:\Python312\Lib\selectors.py:314 in _select
+      r, w, x = select.select(r, w, w, timeout)
+
+  --- FlatlineStatus  21948[d] ---
+    C:\Python312\Lib\threading.py:1030 in _bootstrap
+      self._bootstrap_inner()
+    C:\Python312\Lib\threading.py:1073 in _bootstrap_inner
+      self.run()
+    C:\Python312\Lib\threading.py:1010 in run
+      self._target(*self._args, **self._kwargs)
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1320 in _r
+      try: target()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1154 in _statusLoop
+      while not self._statusStop.wait(0.10):
+    C:\Python312\Lib\threading.py:652 in wait
+      with self._cond:
+    C:\Python312\Lib\threading.py:367 in wait
+      self._waiters.remove(waiter)
+
+  --- FlatlineConsole  30820 ---
+    C:\Python312\Lib\threading.py:1030 in _bootstrap
+      self._bootstrap_inner()
+    C:\Python312\Lib\threading.py:1073 in _bootstrap_inner
+      self.run()
+    C:\Python312\Lib\threading.py:1010 in run
+      self._target(*self._args, **self._kwargs)
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1320 in _r
+      try: target()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1044 in _consoleLoop
+      self._consoleWake.wait()
+    C:\Python312\Lib\threading.py:652 in wait
+      with self._cond:
+    C:\Python312\Lib\threading.py:365 in wait
+      if not gotit:
+
+  --- FlatlineWatchdog  24440 ---
+    C:\Python312\Lib\threading.py:1030 in _bootstrap
+      self._bootstrap_inner()
+    C:\Python312\Lib\threading.py:1073 in _bootstrap_inner
+      self.run()
+    C:\Python312\Lib\threading.py:1010 in run
+      self._target(*self._args, **self._kwargs)
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1320 in _r
+      try: target()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:984 in _watchdog
+      while not self._consoleStop.wait(self._pollInterval):
+    C:\Python312\Lib\threading.py:655 in wait
+      signaled = self._cond.wait(timeout)
+    C:\Python312\Lib\threading.py:359 in wait
+      gotit = waiter.acquire(True, timeout)
+
+  --- FlatlineRelay  20140[d] ---
+    C:\Python312\Lib\threading.py:1030 in _bootstrap
+      self._bootstrap_inner()
+    C:\Python312\Lib\threading.py:1073 in _bootstrap_inner
+      self.run()
+    C:\Python312\Lib\threading.py:1010 in run
+      self._target(*self._args, **self._kwargs)
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1320 in _r
+      try: target()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:907 in <lambda>
+      target=self._wrap(lambda: self._relayServer.serve_forever(poll_interval=0.5), 'Relay'),
+    C:\Python312\Lib\socketserver.py:235 in serve_forever
+      ready = selector.select(poll_interval)
+    C:\Python312\Lib\selectors.py:323 in select
+      r, w, _ = self._select(self._readers, self._writers, [], timeout)
+    C:\Python312\Lib\selectors.py:314 in _select
+      r, w, x = select.select(r, w, w, timeout)
+
+  --- MainThread  26660[MAIN] ---
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\example.py:101 in <module>
+      exit_code = debugger.wait()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:648 in wait
+      time.sleep(0.05)
+[stderr] \u2554\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2557
+
+╔══════════════════════════════════════════════════════════════╗
+║                    Flatline Debug Console                    ║
+╠══════════════════════════════════════════════════════════════╣
+║  [FLATLINED TODAY @ 15:02:20.693345 after SHOW in Flatline::AppWindow]║
+║  Exception : ManualDebug: Manually entered debug console (D key)║
+║  Parent PID: 40380   Child PID: 39176                        ║
+║  Mode      : proc.poll()                                     ║
+║  lastPolled : 1774724540.693345                              ║
+║  Time      : 2026-03-28 15:02:21                             ║
+╠══════════════════════════════════════════════════════════════╣
+║  1 stack   2 vars    3 close   4 SIGTERM  5 KILL        ║
+║  6 refresh 7 shell   8 conns   9 monitor                ║
+║  R restart S status  Q quit                              ║
+╚══════════════════════════════════════════════════════════════╝
+[stderr] \u2551                    Flatline Debug Console                    \u2551
+[stderr] \u2560\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2563
+[stderr] \u2551  [FLATLINED TODAY @ 15:02:20.693345 after SHOW in Flatline::AppWindow]\u2551
+[stderr] \u2551  Exception : ManualDebug: Manually entered debug console (D key)\u2551
+[stderr] \u2551  Parent PID: 40380   Child PID: 39176                        \u2551
+[stderr] \u2551  Mode      : proc.poll()                                     \u2551
+[stderr] \u2551  lastPolled : 1774724540.693345                              \u2551
+[stderr] \u2551  Time      : 2026-03-28 15:02:21                             \u2551
+[stderr] \u2560\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2563
+[stderr] \u2551  1 stack   2 vars    3 close   4 SIGTERM  5 KILL        \u2551
+[stderr] \u2551  6 refresh 7 shell   8 conns   9 monitor                \u2551
+[stderr] \u2551  R restart S status  Q quit                              \u2551
+[stderr] \u255a\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u255d
+[stderr] [Flatline] Console closed
+================================================================
+  SNAPSHOT
+================================================================
+  [FLATLINED TODAY @ 15:02:20.693345 after SHOW in Flatline::AppWindow]
+  Exception: ManualDebug: Manually entered debug console (D key)
+  PID: 39176  Mode: poll
+  lastPolled: 1774724540.693345
+[Flatline] Stack  PID=40380  threads=11
+
+  --- FlatlineSnapshot  20980[d] ---
+    C:\Python312\Lib\threading.py:1030 in _bootstrap
+      self._bootstrap_inner()
+    C:\Python312\Lib\threading.py:1073 in _bootstrap_inner
+      self.run()
+    C:\Python312\Lib\threading.py:1010 in run
+      self._target(*self._args, **self._kwargs)
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1320 in _r
+      try: target()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1227 in _run
+      stack = '\n'.join(header) + self._frames()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1254 in _frames
+      for item in traceback.extract_stack(frame):
+
+  --- FlatlineKeyReader  17424[d] ---
+    C:\Python312\Lib\threading.py:1030 in _bootstrap
+      self._bootstrap_inner()
+    C:\Python312\Lib\threading.py:1073 in _bootstrap_inner
+      self.run()
+    C:\Python312\Lib\threading.py:1010 in run
+      self._target(*self._args, **self._kwargs)
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1320 in _r
+      try: target()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:784 in _keyReader
+      self._keyReaderWindows()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:809 in _keyReaderWindows
+      time.sleep(0.05)
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:838 in _openManualDebug
+      self._openConsole({
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1038 in _openConsole
+      if block:
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1242 in _snapshotAsync
+      t.start()
+    C:\Python312\Lib\threading.py:997 in start
+      self._started.wait()
+    C:\Python312\Lib\threading.py:652 in wait
+      with self._cond:
+    C:\Python312\Lib\threading.py:365 in wait
+      if not gotit:
+
+  --- FlatlinePoll  15904[d] ---
+    C:\Python312\Lib\threading.py:1030 in _bootstrap
+      self._bootstrap_inner()
+    C:\Python312\Lib\threading.py:1073 in _bootstrap_inner
+      self.run()
+    C:\Python312\Lib\threading.py:1010 in run
+      self._target(*self._args, **self._kwargs)
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1320 in _r
+      try: target()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:862 in _pollLoop
+      while not self._pollStop.wait(self._pollInterval):
+    C:\Python312\Lib\threading.py:655 in wait
+      signaled = self._cond.wait(timeout)
+    C:\Python312\Lib\threading.py:359 in wait
+      gotit = waiter.acquire(True, timeout)
+
+  --- FlatlinePump:stderr  13012[d] ---
+    C:\Python312\Lib\threading.py:1030 in _bootstrap
+      self._bootstrap_inner()
+    C:\Python312\Lib\threading.py:1073 in _bootstrap_inner
+      self.run()
+    C:\Python312\Lib\threading.py:1010 in run
+      self._target(*self._args, **self._kwargs)
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1320 in _r
+      try: target()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1394 in _run
+      for line in pipe:
+
+  --- FlatlinePump:stdout  37528[d] ---
+    C:\Python312\Lib\threading.py:1030 in _bootstrap
+      self._bootstrap_inner()
+    C:\Python312\Lib\threading.py:1073 in _bootstrap_inner
+      self.run()
+    C:\Python312\Lib\threading.py:1010 in run
+      self._target(*self._args, **self._kwargs)
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1320 in _r
+      try: target()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1394 in _run
+      for line in pipe:
+
+  --- FlatlineREPL  1436[d] ---
+    C:\Python312\Lib\threading.py:1030 in _bootstrap
+      self._bootstrap_inner()
+    C:\Python312\Lib\threading.py:1073 in _bootstrap_inner
+      self.run()
+    C:\Python312\Lib\threading.py:1010 in run
+      self._target(*self._args, **self._kwargs)
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1320 in _r
+      try: target()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:971 in <lambda>
+      target=self._wrap(lambda: self._replServer.serve_forever(poll_interval=0.5), 'REPL'),
+    C:\Python312\Lib\socketserver.py:235 in serve_forever
+      ready = selector.select(poll_interval)
+    C:\Python312\Lib\selectors.py:323 in select
+      r, w, _ = self._select(self._readers, self._writers, [], timeout)
+    C:\Python312\Lib\selectors.py:314 in _select
+      r, w, x = select.select(r, w, w, timeout)
+
+  --- FlatlineStatus  21948[d] ---
+    C:\Python312\Lib\threading.py:1030 in _bootstrap
+      self._bootstrap_inner()
+    C:\Python312\Lib\threading.py:1073 in _bootstrap_inner
+      self.run()
+    C:\Python312\Lib\threading.py:1010 in run
+      self._target(*self._args, **self._kwargs)
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1320 in _r
+      try: target()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1154 in _statusLoop
+      while not self._statusStop.wait(0.10):
+    C:\Python312\Lib\threading.py:655 in wait
+      signaled = self._cond.wait(timeout)
+    C:\Python312\Lib\threading.py:359 in wait
+      gotit = waiter.acquire(True, timeout)
+
+  --- FlatlineConsole  30820 ---
+    C:\Python312\Lib\threading.py:1030 in _bootstrap
+      self._bootstrap_inner()
+    C:\Python312\Lib\threading.py:1073 in _bootstrap_inner
+      self.run()
+    C:\Python312\Lib\threading.py:1010 in run
+      self._target(*self._args, **self._kwargs)
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1320 in _r
+      try: target()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1044 in _consoleLoop
+      self._consoleWake.wait()
+    C:\Python312\Lib\threading.py:652 in wait
+      with self._cond:
+    C:\Python312\Lib\threading.py:365 in wait
+      if not gotit:
+
+  --- FlatlineWatchdog  24440 ---
+    C:\Python312\Lib\threading.py:1030 in _bootstrap
+      self._bootstrap_inner()
+    C:\Python312\Lib\threading.py:1073 in _bootstrap_inner
+      self.run()
+    C:\Python312\Lib\threading.py:1010 in run
+      self._target(*self._args, **self._kwargs)
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1320 in _r
+      try: target()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:984 in _watchdog
+      while not self._consoleStop.wait(self._pollInterval):
+    C:\Python312\Lib\threading.py:655 in wait
+      signaled = self._cond.wait(timeout)
+    C:\Python312\Lib\threading.py:359 in wait
+      gotit = waiter.acquire(True, timeout)
+
+  --- FlatlineRelay  20140[d] ---
+    C:\Python312\Lib\threading.py:1030 in _bootstrap
+      self._bootstrap_inner()
+    C:\Python312\Lib\threading.py:1073 in _bootstrap_inner
+      self.run()
+    C:\Python312\Lib\threading.py:1010 in run
+      self._target(*self._args, **self._kwargs)
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1320 in _r
+      try: target()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:907 in <lambda>
+      target=self._wrap(lambda: self._relayServer.serve_forever(poll_interval=0.5), 'Relay'),
+    C:\Python312\Lib\socketserver.py:235 in serve_forever
+      ready = selector.select(poll_interval)
+    C:\Python312\Lib\selectors.py:323 in select
+      r, w, _ = self._select(self._readers, self._writers, [], timeout)
+    C:\Python312\Lib\selectors.py:314 in _select
+      r, w, x = select.select(r, w, w, timeout)
+
+  --- MainThread  26660[MAIN] ---
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\example.py:101 in <module>
+      exit_code = debugger.wait()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:648 in wait
+      time.sleep(0.05)
+[stderr] \u2554\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2557
+
+╔══════════════════════════════════════════════════════════════╗
+║                    Flatline Debug Console                    ║
+╠══════════════════════════════════════════════════════════════╣
+║  [FLATLINED TODAY @ 15:02:21.707933 after SHOW in Flatline::AppWindow]║
+║  Exception : ManualDebug: Manually entered debug console (D key)║
+║  Parent PID: 40380   Child PID: 39176                        ║
+║  Mode      : proc.poll()                                     ║
+║  lastPolled : 1774724541.707933                              ║
+║  Time      : 2026-03-28 15:02:21                             ║
+╠══════════════════════════════════════════════════════════════╣
+║  1 stack   2 vars    3 close   4 SIGTERM  5 KILL        ║
+║  6 refresh 7 shell   8 conns   9 monitor                ║
+║  R restart S status  Q quit                              ║
+╚══════════════════════════════════════════════════════════════╝
+[stderr] \u2551                    Flatline Debug Console                    \u2551
+[stderr] \u2560\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2563
+[stderr] \u2551  [FLATLINED TODAY @ 15:02:21.707933 after SHOW in Flatline::AppWindow]\u2551
+[stderr] \u2551  Exception : ManualDebug: Manually entered debug console (D key)\u2551
+[stderr] \u2551  Parent PID: 40380   Child PID: 39176                        \u2551
+[stderr] \u2551  Mode      : proc.poll()                                     \u2551
+[stderr] \u2551  lastPolled : 1774724541.707933                              \u2551
+[stderr] \u2551  Time      : 2026-03-28 15:02:21                             \u2551
+================================================================
+  SNAPSHOT
+================================================================
+  [FLATLINED TODAY @ 15:02:21.707933 after SHOW in Flatline::AppWindow]
+  Exception: ManualDebug: Manually entered debug console (D key)
+  PID: 39176  Mode: poll
+  lastPolled: 1774724541.707933
+[Flatline] Stack  PID=40380  threads=11
+
+  --- FlatlineSnapshot  10136[d] ---
+    C:\Python312\Lib\threading.py:1030 in _bootstrap
+      self._bootstrap_inner()
+    C:\Python312\Lib\threading.py:1073 in _bootstrap_inner
+      self.run()
+    C:\Python312\Lib\threading.py:1010 in run
+      self._target(*self._args, **self._kwargs)
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1320 in _r
+      try: target()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1227 in _run
+      stack = '\n'.join(header) + self._frames()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1254 in _frames
+      for item in traceback.extract_stack(frame):
+
+  --- FlatlineKeyReader  17424[d] ---
+    C:\Python312\Lib\threading.py:1030 in _bootstrap
+      self._bootstrap_inner()
+    C:\Python312\Lib\threading.py:1073 in _bootstrap_inner
+      self.run()
+    C:\Python312\Lib\threading.py:1010 in run
+      self._target(*self._args, **self._kwargs)
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1320 in _r
+      try: target()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:784 in _keyReader
+      self._keyReaderWindows()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:809 in _keyReaderWindows
+      time.sleep(0.05)
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:838 in _openManualDebug
+      self._openConsole({
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1038 in _openConsole
+      if block:
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1242 in _snapshotAsync
+      t.start()
+    C:\Python312\Lib\threading.py:997 in start
+      self._started.wait()
+    C:\Python312\Lib\threading.py:652 in wait
+      with self._cond:
+    C:\Python312\Lib\threading.py:365 in wait
+      if not gotit:
+
+  --- FlatlinePoll  15904[d] ---
+    C:\Python312\Lib\threading.py:1030 in _bootstrap
+      self._bootstrap_inner()
+    C:\Python312\Lib\threading.py:1073 in _bootstrap_inner
+      self.run()
+    C:\Python312\Lib\threading.py:1010 in run
+      self._target(*self._args, **self._kwargs)
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1320 in _r
+      try: target()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:862 in _pollLoop
+      while not self._pollStop.wait(self._pollInterval):
+    C:\Python312\Lib\threading.py:655 in wait
+      signaled = self._cond.wait(timeout)
+    C:\Python312\Lib\threading.py:359 in wait
+      gotit = waiter.acquire(True, timeout)
+
+  --- FlatlinePump:stderr  13012[d] ---
+    C:\Python312\Lib\threading.py:1030 in _bootstrap
+      self._bootstrap_inner()
+    C:\Python312\Lib\threading.py:1073 in _bootstrap_inner
+      self.run()
+    C:\Python312\Lib\threading.py:1010 in run
+      self._target(*self._args, **self._kwargs)
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1320 in _r
+      try: target()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1394 in _run
+      for line in pipe:
+
+  --- FlatlinePump:stdout  37528[d] ---
+    C:\Python312\Lib\threading.py:1030 in _bootstrap
+      self._bootstrap_inner()
+    C:\Python312\Lib\threading.py:1073 in _bootstrap_inner
+      self.run()
+    C:\Python312\Lib\threading.py:1010 in run
+      self._target(*self._args, **self._kwargs)
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1320 in _r
+      try: target()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1394 in _run
+      for line in pipe:
+
+  --- FlatlineREPL  1436[d] ---
+    C:\Python312\Lib\threading.py:1030 in _bootstrap
+      self._bootstrap_inner()
+    C:\Python312\Lib\threading.py:1073 in _bootstrap_inner
+      self.run()
+    C:\Python312\Lib\threading.py:1010 in run
+      self._target(*self._args, **self._kwargs)
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1320 in _r
+      try: target()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:971 in <lambda>
+      target=self._wrap(lambda: self._replServer.serve_forever(poll_interval=0.5), 'REPL'),
+    C:\Python312\Lib\socketserver.py:235 in serve_forever
+      ready = selector.select(poll_interval)
+    C:\Python312\Lib\selectors.py:323 in select
+      r, w, _ = self._select(self._readers, self._writers, [], timeout)
+    C:\Python312\Lib\selectors.py:314 in _select
+      r, w, x = select.select(r, w, w, timeout)
+
+  --- FlatlineStatus  21948[d] ---
+    C:\Python312\Lib\threading.py:1030 in _bootstrap
+      self._bootstrap_inner()
+    C:\Python312\Lib\threading.py:1073 in _bootstrap_inner
+      self.run()
+    C:\Python312\Lib\threading.py:1010 in run
+      self._target(*self._args, **self._kwargs)
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1320 in _r
+      try: target()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1154 in _statusLoop
+      while not self._statusStop.wait(0.10):
+    C:\Python312\Lib\threading.py:655 in wait
+      signaled = self._cond.wait(timeout)
+    C:\Python312\Lib\threading.py:359 in wait
+      gotit = waiter.acquire(True, timeout)
+
+  --- FlatlineConsole  30820 ---
+    C:\Python312\Lib\threading.py:1030 in _bootstrap
+      self._bootstrap_inner()
+    C:\Python312\Lib\threading.py:1073 in _bootstrap_inner
+      self.run()
+    C:\Python312\Lib\threading.py:1010 in run
+      self._target(*self._args, **self._kwargs)
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1320 in _r
+      try: target()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1044 in _consoleLoop
+      self._consoleWake.wait()
+    C:\Python312\Lib\threading.py:652 in wait
+      with self._cond:
+    C:\Python312\Lib\threading.py:365 in wait
+      if not gotit:
+
+  --- FlatlineWatchdog  24440 ---
+    C:\Python312\Lib\threading.py:1030 in _bootstrap
+      self._bootstrap_inner()
+    C:\Python312\Lib\threading.py:1073 in _bootstrap_inner
+      self.run()
+    C:\Python312\Lib\threading.py:1010 in run
+      self._target(*self._args, **self._kwargs)
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1320 in _r
+      try: target()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:984 in _watchdog
+      while not self._consoleStop.wait(self._pollInterval):
+    C:\Python312\Lib\threading.py:655 in wait
+      signaled = self._cond.wait(timeout)
+    C:\Python312\Lib\threading.py:359 in wait
+      gotit = waiter.acquire(True, timeout)
+
+  --- FlatlineRelay  20140[d] ---
+    C:\Python312\Lib\threading.py:1030 in _bootstrap
+      self._bootstrap_inner()
+    C:\Python312\Lib\threading.py:1073 in _bootstrap_inner
+      self.run()
+    C:\Python312\Lib\threading.py:1010 in run
+      self._target(*self._args, **self._kwargs)
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1320 in _r
+      try: target()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:907 in <lambda>
+      target=self._wrap(lambda: self._relayServer.serve_forever(poll_interval=0.5), 'Relay'),
+    C:\Python312\Lib\socketserver.py:235 in serve_forever
+      ready = selector.select(poll_interval)
+    C:\Python312\Lib\selectors.py:323 in select
+      r, w, _ = self._select(self._readers, self._writers, [], timeout)
+    C:\Python312\Lib\selectors.py:314 in _select
+      r, w, x = select.select(r, w, w, timeout)
+
+  --- MainThread  26660[MAIN] ---
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\example.py:101 in <module>
+      exit_code = debugger.wait()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:648 in wait
+      time.sleep(0.05)
+[stderr] \u2560\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2563
+[stderr] \u2551  1 stack   2 vars    3 close   4 SIGTERM  5 KILL        \u2551
+[stderr] \u2551  6 refresh 7 shell   8 conns   9 monitor                \u2551
+[stderr] \u2551  R restart S status  Q quit                              \u2551
+[stderr] \u255a\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u255d
+[stderr] [Flatline] Console closed
+[stderr] \u2554\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2557
+════════════════════╣
+║  [FLATLINED TODAY @ 15:02:22.723445 after SHOW in Flatline::AppWindow]║
+║  Exception : ManualDebug: Manually entered debug console (D key)║
+║  Parent PID: 40380   Child PID: 39176                        ║
+║  Mode      : proc.poll()                                     ║
+║  lastPolled : 1774724542.723445                              ║
+║  Time      : 2026-03-28 15:02:23                             ║
+╠══════════════════════════════════════════════════════════════╣
+║  1 stack   2 vars    3 close   4 SIGTERM  5 KILL        ║
+║  6 refresh 7 shell   8 conns   9 monitor                ║
+║  R restart S status  Q quit                              ║
+╚══════════════════════════════════════════════════════════════╝
+[stderr] \u2551                    Flatline Debug Console                    \u2551
+[stderr] \u2560\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2563
+[stderr] \u2551  [FLATLINED TODAY @ 15:02:22.723445 after SHOW in Flatline::AppWindow]\u2551
+[stderr] \u2551  Exception : ManualDebug: Manually entered debug console (D key)\u2551
+[stderr] \u2551  Parent PID: 40380   Child PID: 39176                        \u2551
+[stderr] \u2551  Mode      : proc.poll()                                     \u2551
+[stderr] \u2551  lastPolled : 1774724542.723445                              \u2551
+[stderr] \u2551  Time      : 2026-03-28 15:02:23                             \u2551
+[stderr] \u2560\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2563
+================================================================
+  SNAPSHOT
+================================================================
+  [FLATLINED TODAY @ 15:02:22.723445 after SHOW in Flatline::AppWindow]
+  Exception: ManualDebug: Manually entered debug console (D key)
+  PID: 39176  Mode: poll
+  lastPolled: 1774724542.723445
+[Flatline] Stack  PID=40380  threads=11
+
+  --- FlatlineSnapshot  28540[d] ---
+    C:\Python312\Lib\threading.py:1030 in _bootstrap
+      self._bootstrap_inner()
+    C:\Python312\Lib\threading.py:1073 in _bootstrap_inner
+      self.run()
+    C:\Python312\Lib\threading.py:1010 in run
+      self._target(*self._args, **self._kwargs)
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1320 in _r
+      try: target()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1227 in _run
+      stack = '\n'.join(header) + self._frames()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1254 in _frames
+      for item in traceback.extract_stack(frame):
+
+  --- FlatlineKeyReader  17424[d] ---
+    C:\Python312\Lib\threading.py:1030 in _bootstrap
+      self._bootstrap_inner()
+    C:\Python312\Lib\threading.py:1073 in _bootstrap_inner
+      self.run()
+    C:\Python312\Lib\threading.py:1010 in run
+      self._target(*self._args, **self._kwargs)
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1320 in _r
+      try: target()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:784 in _keyReader
+      self._keyReaderWindows()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:809 in _keyReaderWindows
+      time.sleep(0.05)
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:838 in _openManualDebug
+      self._openConsole({
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1038 in _openConsole
+      if block:
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1242 in _snapshotAsync
+      t.start()
+    C:\Python312\Lib\threading.py:997 in start
+      self._started.wait()
+    C:\Python312\Lib\threading.py:652 in wait
+      with self._cond:
+    C:\Python312\Lib\threading.py:365 in wait
+      if not gotit:
+
+  --- FlatlinePoll  15904[d] ---
+    C:\Python312\Lib\threading.py:1030 in _bootstrap
+      self._bootstrap_inner()
+    C:\Python312\Lib\threading.py:1073 in _bootstrap_inner
+      self.run()
+    C:\Python312\Lib\threading.py:1010 in run
+      self._target(*self._args, **self._kwargs)
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1320 in _r
+      try: target()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:862 in _pollLoop
+      while not self._pollStop.wait(self._pollInterval):
+    C:\Python312\Lib\threading.py:655 in wait
+      signaled = self._cond.wait(timeout)
+    C:\Python312\Lib\threading.py:359 in wait
+      gotit = waiter.acquire(True, timeout)
+
+  --- FlatlinePump:stderr  13012[d] ---
+    C:\Python312\Lib\threading.py:1030 in _bootstrap
+      self._bootstrap_inner()
+    C:\Python312\Lib\threading.py:1073 in _bootstrap_inner
+      self.run()
+    C:\Python312\Lib\threading.py:1010 in run
+      self._target(*self._args, **self._kwargs)
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1320 in _r
+      try: target()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1394 in _run
+      for line in pipe:
+
+  --- FlatlinePump:stdout  37528[d] ---
+    C:\Python312\Lib\threading.py:1030 in _bootstrap
+      self._bootstrap_inner()
+    C:\Python312\Lib\threading.py:1073 in _bootstrap_inner
+      self.run()
+    C:\Python312\Lib\threading.py:1010 in run
+      self._target(*self._args, **self._kwargs)
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1320 in _r
+      try: target()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1394 in _run
+      for line in pipe:
+
+  --- FlatlineREPL  1436[d] ---
+    C:\Python312\Lib\threading.py:1030 in _bootstrap
+      self._bootstrap_inner()
+    C:\Python312\Lib\threading.py:1073 in _bootstrap_inner
+      self.run()
+    C:\Python312\Lib\threading.py:1010 in run
+      self._target(*self._args, **self._kwargs)
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1320 in _r
+      try: target()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:971 in <lambda>
+      target=self._wrap(lambda: self._replServer.serve_forever(poll_interval=0.5), 'REPL'),
+    C:\Python312\Lib\socketserver.py:235 in serve_forever
+      ready = selector.select(poll_interval)
+    C:\Python312\Lib\selectors.py:323 in select
+      r, w, _ = self._select(self._readers, self._writers, [], timeout)
+    C:\Python312\Lib\selectors.py:314 in _select
+      r, w, x = select.select(r, w, w, timeout)
+
+  --- FlatlineStatus  21948[d] ---
+    C:\Python312\Lib\threading.py:1030 in _bootstrap
+      self._bootstrap_inner()
+    C:\Python312\Lib\threading.py:1073 in _bootstrap_inner
+      self.run()
+    C:\Python312\Lib\threading.py:1010 in run
+      self._target(*self._args, **self._kwargs)
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1320 in _r
+      try: target()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1154 in _statusLoop
+      while not self._statusStop.wait(0.10):
+    C:\Python312\Lib\threading.py:655 in wait
+      signaled = self._cond.wait(timeout)
+    C:\Python312\Lib\threading.py:359 in wait
+      gotit = waiter.acquire(True, timeout)
+
+  --- FlatlineConsole  30820 ---
+    C:\Python312\Lib\threading.py:1030 in _bootstrap
+      self._bootstrap_inner()
+    C:\Python312\Lib\threading.py:1073 in _bootstrap_inner
+      self.run()
+    C:\Python312\Lib\threading.py:1010 in run
+      self._target(*self._args, **self._kwargs)
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1320 in _r
+      try: target()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1044 in _consoleLoop
+      self._consoleWake.wait()
+    C:\Python312\Lib\threading.py:652 in wait
+      with self._cond:
+    C:\Python312\Lib\threading.py:365 in wait
+      if not gotit:
+
+  --- FlatlineWatchdog  24440 ---
+    C:\Python312\Lib\threading.py:1030 in _bootstrap
+      self._bootstrap_inner()
+    C:\Python312\Lib\threading.py:1073 in _bootstrap_inner
+      self.run()
+    C:\Python312\Lib\threading.py:1010 in run
+      self._target(*self._args, **self._kwargs)
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1320 in _r
+      try: target()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:984 in _watchdog
+      while not self._consoleStop.wait(self._pollInterval):
+    C:\Python312\Lib\threading.py:655 in wait
+      signaled = self._cond.wait(timeout)
+    C:\Python312\Lib\threading.py:359 in wait
+      gotit = waiter.acquire(True, timeout)
+
+  --- FlatlineRelay  20140[d] ---
+    C:\Python312\Lib\threading.py:1030 in _bootstrap
+      self._bootstrap_inner()
+    C:\Python312\Lib\threading.py:1073 in _bootstrap_inner
+      self.run()
+    C:\Python312\Lib\threading.py:1010 in run
+      self._target(*self._args, **self._kwargs)
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1320 in _r
+      try: target()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:907 in <lambda>
+      target=self._wrap(lambda: self._relayServer.serve_forever(poll_interval=0.5), 'Relay'),
+    C:\Python312\Lib\socketserver.py:235 in serve_forever
+      ready = selector.select(poll_interval)
+    C:\Python312\Lib\selectors.py:323 in select
+      r, w, _ = self._select(self._readers, self._writers, [], timeout)
+    C:\Python312\Lib\selectors.py:314 in _select
+      r, w, x = select.select(r, w, w, timeout)
+
+  --- MainThread  26660[MAIN] ---
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\example.py:101 in <module>
+      exit_code = debugger.wait()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:648 in wait
+      time.sleep(0.05)
+[stderr] \u2551  1 stack   2 vars    3 close   4 SIGTERM  5 KILL        \u2551
+[stderr] \u2551  6 refresh 7 shell   8 conns   9 monitor                \u2551
+[stderr] \u2551  R restart S status  Q quit                              \u2551
+[stderr] \u255a\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u255d
+[stderr] [Flatline] Console closed
+
+╔══════════════════════════════════════════════════════════════╗
+║                    Flatline Debug Console                    ║
+╠══════════════════════════════════════════════════════════════╣
+║  [FLATLINED TODAY @ 15:02:22.629022 after INIT]              ║
+║  Exception : ManualDebug: Manually entered debug console (D key)║
+║  Parent PID: 22136   Child PID: 40380                        ║
+║  Mode      : proc.poll()                                     ║
+║  lastPolled : 1774724542.629022                              ║
+║  Time      : 2026-03-28 15:02:23                             ║
+╠══════════════════════════════════════════════════════════════╣
+║  1 stack   2 vars    3 close   4 SIGTERM  5 KILL        ║
+║  6 refresh 7 shell   8 conns   9 monitor                ║
+║  R restart S status  Q quit                              ║
+╚══════════════════════════════════════════════════════════════╝
+================================================================
+  SNAPSHOT
+================================================================
+  [FLATLINED TODAY @ 15:02:22.629022 after INIT]
+  Exception: ManualDebug: Manually entered debug console (D key)
+  PID: 40380  Mode: poll
+  lastPolled: 1774724542.629022
+[Flatline] Stack  PID=22136  threads=11
+
+  --- FlatlineSnapshot  14268[d] ---
+    C:\Python312\Lib\threading.py:1030 in _bootstrap
+      self._bootstrap_inner()
+    C:\Python312\Lib\threading.py:1073 in _bootstrap_inner
+      self.run()
+    C:\Python312\Lib\threading.py:1010 in run
+      self._target(*self._args, **self._kwargs)
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1320 in _r
+      try: target()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1227 in _run
+      stack = '\n'.join(header) + self._frames()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1254 in _frames
+      for item in traceback.extract_stack(frame):
+
+  --- FlatlineKeyReader  21704[d] ---
+    C:\Python312\Lib\threading.py:1030 in _bootstrap
+      self._bootstrap_inner()
+    C:\Python312\Lib\threading.py:1073 in _bootstrap_inner
+      self.run()
+    C:\Python312\Lib\threading.py:1010 in run
+      self._target(*self._args, **self._kwargs)
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1320 in _r
+      try: target()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:784 in _keyReader
+      self._keyReaderWindows()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:809 in _keyReaderWindows
+      time.sleep(0.05)
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:838 in _openManualDebug
+      self._openConsole({
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1038 in _openConsole
+      if block:
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1242 in _snapshotAsync
+      t.start()
+    C:\Python312\Lib\threading.py:997 in start
+      self._started.wait()
+    C:\Python312\Lib\threading.py:652 in wait
+      with self._cond:
+    C:\Python312\Lib\threading.py:365 in wait
+      if not gotit:
+
+  --- FlatlinePoll  31060[d] ---
+    C:\Python312\Lib\threading.py:1030 in _bootstrap
+      self._bootstrap_inner()
+    C:\Python312\Lib\threading.py:1073 in _bootstrap_inner
+      self.run()
+    C:\Python312\Lib\threading.py:1010 in run
+      self._target(*self._args, **self._kwargs)
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1320 in _r
+      try: target()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:862 in _pollLoop
+      while not self._pollStop.wait(self._pollInterval):
+    C:\Python312\Lib\threading.py:655 in wait
+      signaled = self._cond.wait(timeout)
+    C:\Python312\Lib\threading.py:359 in wait
+      gotit = waiter.acquire(True, timeout)
+
+  --- FlatlinePump:stderr  41352[d] ---
+    C:\Python312\Lib\threading.py:1030 in _bootstrap
+      self._bootstrap_inner()
+    C:\Python312\Lib\threading.py:1073 in _bootstrap_inner
+      self.run()
+    C:\Python312\Lib\threading.py:1010 in run
+      self._target(*self._args, **self._kwargs)
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1320 in _r
+      try: target()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1394 in _run
+      for line in pipe:
+
+  --- FlatlinePump:stdout  10592[d] ---
+    C:\Python312\Lib\threading.py:1030 in _bootstrap
+      self._bootstrap_inner()
+    C:\Python312\Lib\threading.py:1073 in _bootstrap_inner
+      self.run()
+    C:\Python312\Lib\threading.py:1010 in run
+      self._target(*self._args, **self._kwargs)
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1320 in _r
+      try: target()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1394 in _run
+      for line in pipe:
+
+  --- FlatlineREPL  27688[d] ---
+    C:\Python312\Lib\threading.py:1030 in _bootstrap
+      self._bootstrap_inner()
+    C:\Python312\Lib\threading.py:1073 in _bootstrap_inner
+      self.run()
+    C:\Python312\Lib\threading.py:1010 in run
+      self._target(*self._args, **self._kwargs)
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1320 in _r
+      try: target()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:971 in <lambda>
+      target=self._wrap(lambda: self._replServer.serve_forever(poll_interval=0.5), 'REPL'),
+    C:\Python312\Lib\socketserver.py:235 in serve_forever
+      ready = selector.select(poll_interval)
+    C:\Python312\Lib\selectors.py:323 in select
+      r, w, _ = self._select(self._readers, self._writers, [], timeout)
+    C:\Python312\Lib\selectors.py:314 in _select
+      r, w, x = select.select(r, w, w, timeout)
+
+  --- FlatlineStatus  35524[d] ---
+    C:\Python312\Lib\threading.py:1030 in _bootstrap
+      self._bootstrap_inner()
+    C:\Python312\Lib\threading.py:1073 in _bootstrap_inner
+      self.run()
+    C:\Python312\Lib\threading.py:1010 in run
+      self._target(*self._args, **self._kwargs)
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1320 in _r
+      try: target()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1154 in _statusLoop
+      while not self._statusStop.wait(0.10):
+    C:\Python312\Lib\threading.py:655 in wait
+      signaled = self._cond.wait(timeout)
+    C:\Python312\Lib\threading.py:359 in wait
+      gotit = waiter.acquire(True, timeout)
+
+  --- FlatlineConsole  7792 ---
+    C:\Python312\Lib\threading.py:1030 in _bootstrap
+      self._bootstrap_inner()
+    C:\Python312\Lib\threading.py:1073 in _bootstrap_inner
+      self.run()
+    C:\Python312\Lib\threading.py:1010 in run
+      self._target(*self._args, **self._kwargs)
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1320 in _r
+      try: target()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1048 in _consoleLoop
+      self._banner()
+    C:\Python312\Lib\threading.py:652 in wait
+      with self._cond:
+    C:\Python312\Lib\threading.py:365 in wait
+      if not gotit:
+
+  --- FlatlineWatchdog  740 ---
+    C:\Python312\Lib\threading.py:1030 in _bootstrap
+      self._bootstrap_inner()
+    C:\Python312\Lib\threading.py:1073 in _bootstrap_inner
+      self.run()
+    C:\Python312\Lib\threading.py:1010 in run
+      self._target(*self._args, **self._kwargs)
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1320 in _r
+      try: target()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:984 in _watchdog
+      while not self._consoleStop.wait(self._pollInterval):
+    C:\Python312\Lib\threading.py:655 in wait
+      signaled = self._cond.wait(timeout)
+    C:\Python312\Lib\threading.py:359 in wait
+      gotit = waiter.acquire(True, timeout)
+
+  --- FlatlineRelay  19212[d] ---
+    C:\Python312\Lib\threading.py:1030 in _bootstrap
+      self._bootstrap_inner()
+    C:\Python312\Lib\threading.py:1073 in _bootstrap_inner
+      self.run()
+    C:\Python312\Lib\threading.py:1010 in run
+      self._target(*self._args, **self._kwargs)
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1320 in _r
+      try: target()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:907 in <lambda>
+      target=self._wrap(lambda: self._relayServer.serve_forever(poll_interval=0.5), 'Relay'),
+    C:\Python312\Lib\socketserver.py:235 in serve_forever
+      ready = selector.select(poll_interval)
+    C:\Python312\Lib\selectors.py:323 in select
+      r, w, _ = self._select(self._readers, self._writers, [], timeout)
+    C:\Python312\Lib\selectors.py:314 in _select
+      r, w, x = select.select(r, w, w, timeout)
+
+  --- MainThread  23612[MAIN] ---
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1478 in <module>
+      raise SystemExit(main())
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1472 in main
+      return dbg.wait()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:648 in wait
+      time.sleep(0.05)
+[stdout] [Flatline] > [Flatline] > [Flatline] > [Flatline] >
+[Flatline] Child launched  pid=37536  argv=C:\Users\moren\Desktop\flatline_v1.0b\flatline\example.py
+[stdout] Flatline Example � v1.0b  (2026-03-28)
+[stdout] Supervising  : C:\Users\moren\Desktop\flatline_v1.0b\flatline\app.py
+[stdout] MD5          : 9eff10f3
+[stdout] Extra args   : (none)
+[stdout] [Flatline] Heartbeat mode: proc.poll()
+[stdout] [Flatline] Relay  127.0.0.1:54339
+[stdout] [Flatline] Watchdog  freeze=2.5s  mode=poll
+[stdout] [Flatline] REPL  127.0.0.1:5050  (nc localhost 5050)
+[stdout] [example] Relay port : 54339
+[stdout] [example] Socket REPL: nc localhost 5050
+[stdout] [example] Ctrl+C to terminate child
+[Flatline] Child launched  pid=19264  argv=C:\Users\moren\Desktop\flatline_v1.0b\flatline\app.py
+[stdout] [Flatline] Child launched  pid=19264
+[stdout] [Flatline] Attached pid=19264
+[stderr] \u2554\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2557
+[stderr] \u2551                    Flatline Debug Console                    \u2551
+[stderr] \u2560\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2563
+[stderr] \u2551  [FLATLINED TODAY @ 15:08:26.459739 after SHOW in Flatline::AppWindow]\u2551
+�════════════════════════════════╗
+║                    Flatline Debug Console                    ║
+╠══════════════════════════════════════════════════════════════╣
+║  [FLATLINED TODAY @ 15:08:26.459739 after SHOW in Flatline::AppWindow]║
+║  Exception : ManualDebug: Manually entered debug console (D key)║
+║  Parent PID: 37536   Child PID: 19264                        ║
+║  Mode      : proc.poll()                                     ║
+║  lastPolled : 1774724906.459739                              ║
+║  Time      : 2026-03-28 15:08:26                             ║
+╠══════════════════════════════════════════════════════════════╣
+║  1 stack   2 vars    3 close   4 SIGTERM  5 KILL        ║
+║  6 refresh 7 shell   8 conns   9 monitor                ║
+║  R restart S status  Q quit                              ║
+╚══════════════════════════════════════════════════════════════╝
+[stderr] \u2551  Exception : ManualDebug: Manually entered debug console (D key)\u2551
+[stdout] [Flatline] >
+[stderr] \u2551  Parent PID: 37536   Child PID: 19264                        \u2551
+[stderr] \u2551  Mode      : proc.poll()                                     \u2551
+[stderr] \u2551  lastPolled : 1774724906.459739                              \u2551
+[stderr] \u2551  Time      : 2026-03-28 15:08:26                             \u2551
+[stderr] \u2560\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2563
+[stderr] \u2551  1 stack   2 vars    3 close   4 SIGTERM  5 KILL        \u2551
+[stderr] \u2551  6 refresh 7 shell   8 conns   9 monitor                \u2551
+[stderr] \u2551  R restart S status  Q quit                              \u2551
+[stderr] \u255a\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u255d
+[stderr] [Flatline] Console closed
+================================================================
+  SNAPSHOT
+================================================================
+  [FLATLINED TODAY @ 15:08:26.459739 after SHOW in Flatline::AppWindow]
+  Exception: ManualDebug: Manually entered debug console (D key)
+  PID: 19264  Mode: poll
+  lastPolled: 1774724906.459739
+[Flatline] Stack  PID=37536  threads=11
+
+  --- FlatlineSnapshot  24692[d] ---
+    C:\Python312\Lib\threading.py:1030 in _bootstrap
+      self._bootstrap_inner()
+    C:\Python312\Lib\threading.py:1073 in _bootstrap_inner
+      self.run()
+    C:\Python312\Lib\threading.py:1010 in run
+      self._target(*self._args, **self._kwargs)
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1309 in _r
+      try: target()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1216 in _run
+      stack = '\n'.join(header) + self._frames()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1243 in _frames
+      for item in traceback.extract_stack(frame):
+
+  --- FlatlineKeyReader  5156[d] ---
+    C:\Python312\Lib\threading.py:1030 in _bootstrap
+      self._bootstrap_inner()
+    C:\Python312\Lib\threading.py:1073 in _bootstrap_inner
+      self.run()
+    C:\Python312\Lib\threading.py:1010 in run
+      self._target(*self._args, **self._kwargs)
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1309 in _r
+      try: target()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:773 in _keyReader
+      self._keyReaderWindows()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:798 in _keyReaderWindows
+      time.sleep(0.05)
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:827 in _openManualDebug
+      self._openConsole({
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1027 in _openConsole
+      if block:
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1231 in _snapshotAsync
+      t.start()
+    C:\Python312\Lib\threading.py:997 in start
+      self._started.wait()
+    C:\Python312\Lib\threading.py:652 in wait
+      with self._cond:
+    C:\Python312\Lib\threading.py:365 in wait
+      if not gotit:
+
+  --- FlatlinePoll  39632[d] ---
+    C:\Python312\Lib\threading.py:1030 in _bootstrap
+      self._bootstrap_inner()
+    C:\Python312\Lib\threading.py:1073 in _bootstrap_inner
+      self.run()
+    C:\Python312\Lib\threading.py:1010 in run
+      self._target(*self._args, **self._kwargs)
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1309 in _r
+      try: target()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:851 in _pollLoop
+      while not self._pollStop.wait(self._pollInterval):
+    C:\Python312\Lib\threading.py:655 in wait
+      signaled = self._cond.wait(timeout)
+    C:\Python312\Lib\threading.py:359 in wait
+      gotit = waiter.acquire(True, timeout)
+
+  --- FlatlinePump:stderr  43812[d] ---
+    C:\Python312\Lib\threading.py:1030 in _bootstrap
+      self._bootstrap_inner()
+    C:\Python312\Lib\threading.py:1073 in _bootstrap_inner
+      self.run()
+    C:\Python312\Lib\threading.py:1010 in run
+      self._target(*self._args, **self._kwargs)
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1309 in _r
+      try: target()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1383 in _run
+      for line in pipe:
+
+  --- FlatlinePump:stdout  27160[d] ---
+    C:\Python312\Lib\threading.py:1030 in _bootstrap
+      self._bootstrap_inner()
+    C:\Python312\Lib\threading.py:1073 in _bootstrap_inner
+      self.run()
+    C:\Python312\Lib\threading.py:1010 in run
+      self._target(*self._args, **self._kwargs)
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1309 in _r
+      try: target()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1383 in _run
+      for line in pipe:
+
+  --- FlatlineREPL  22644[d] ---
+    C:\Python312\Lib\threading.py:1030 in _bootstrap
+      self._bootstrap_inner()
+    C:\Python312\Lib\threading.py:1073 in _bootstrap_inner
+      self.run()
+    C:\Python312\Lib\threading.py:1010 in run
+      self._target(*self._args, **self._kwargs)
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1309 in _r
+      try: target()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:960 in <lambda>
+      target=self._wrap(lambda: self._replServer.serve_forever(poll_interval=0.5), 'REPL'),
+    C:\Python312\Lib\socketserver.py:235 in serve_forever
+      ready = selector.select(poll_interval)
+    C:\Python312\Lib\selectors.py:323 in select
+      r, w, _ = self._select(self._readers, self._writers, [], timeout)
+    C:\Python312\Lib\selectors.py:314 in _select
+      r, w, x = select.select(r, w, w, timeout)
+
+  --- FlatlineStatus  16960[d] ---
+    C:\Python312\Lib\threading.py:1030 in _bootstrap
+      self._bootstrap_inner()
+    C:\Python312\Lib\threading.py:1073 in _bootstrap_inner
+      self.run()
+    C:\Python312\Lib\threading.py:1010 in run
+      self._target(*self._args, **self._kwargs)
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1309 in _r
+      try: target()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1152 in _statusLoop
+      while not self._statusStop.wait(0.10):
+    C:\Python312\Lib\threading.py:655 in wait
+      signaled = self._cond.wait(timeout)
+    C:\Python312\Lib\threading.py:359 in wait
+      gotit = waiter.acquire(True, timeout)
+
+  --- FlatlineConsole  8920 ---
+    C:\Python312\Lib\threading.py:1030 in _bootstrap
+      self._bootstrap_inner()
+    C:\Python312\Lib\threading.py:1073 in _bootstrap_inner
+      self.run()
+    C:\Python312\Lib\threading.py:1010 in run
+      self._target(*self._args, **self._kwargs)
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1309 in _r
+      try: target()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1033 in _consoleLoop
+      self._consoleWake.wait()
+    C:\Python312\Lib\threading.py:652 in wait
+      with self._cond:
+    C:\Python312\Lib\threading.py:365 in wait
+      if not gotit:
+
+  --- FlatlineWatchdog  27084 ---
+    C:\Python312\Lib\threading.py:1030 in _bootstrap
+      self._bootstrap_inner()
+    C:\Python312\Lib\threading.py:1073 in _bootstrap_inner
+      self.run()
+    C:\Python312\Lib\threading.py:1010 in run
+      self._target(*self._args, **self._kwargs)
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1309 in _r
+      try: target()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:973 in _watchdog
+      while not self._consoleStop.wait(self._pollInterval):
+    C:\Python312\Lib\threading.py:655 in wait
+      signaled = self._cond.wait(timeout)
+    C:\Python312\Lib\threading.py:359 in wait
+      gotit = waiter.acquire(True, timeout)
+
+  --- FlatlineRelay  1140[d] ---
+    C:\Python312\Lib\threading.py:1030 in _bootstrap
+      self._bootstrap_inner()
+    C:\Python312\Lib\threading.py:1073 in _bootstrap_inner
+      self.run()
+    C:\Python312\Lib\threading.py:1010 in run
+      self._target(*self._args, **self._kwargs)
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1309 in _r
+      try: target()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:896 in <lambda>
+      target=self._wrap(lambda: self._relayServer.serve_forever(poll_interval=0.5), 'Relay'),
+    C:\Python312\Lib\socketserver.py:235 in serve_forever
+      ready = selector.select(poll_interval)
+    C:\Python312\Lib\selectors.py:323 in select
+      r, w, _ = self._select(self._readers, self._writers, [], timeout)
+    C:\Python312\Lib\selectors.py:314 in _select
+      r, w, x = select.select(r, w, w, timeout)
+
+  --- MainThread  9864[MAIN] ---
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\example.py:101 in <module>
+      exit_code = debugger.wait()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:637 in wait
+      time.sleep(0.05)
+
+╔══════════════════════════════════════════════════════════════╗
+║                    Flatline Debug Console                    ║
+╠══════════════════════════════════════════════════════════════╣
+║  [FLATLINED TODAY @ 15:08:28.394958 after INIT]              ║
+║  Exception : ManualDebug: Manually entered debug console (D key)║
+║  Parent PID: 15592   Child PID: 37536                        ║
+║  Mode      : proc.poll()                                     ║
+║  lastPolled : 1774724908.394958                              ║
+║  Time      : 2026-03-28 15:08:28                             ║
+╠══════════════════════════════════════════════════════════════╣
+║  1 stack   2 vars    3 close   4 SIGTERM  5 KILL        ║
+║  6 refresh 7 shell   8 conns   9 monitor                ║
+║  R restart S status  Q quit                              ║
+╚══════════════════════════════════════════════════════════════╝
+================================================================
+  SNAPSHOT
+================================================================
+  [FLATLINED TODAY @ 15:08:28.394958 after INIT]
+  Exception: ManualDebug: Manually entered debug console (D key)
+  PID: 37536  Mode: poll
+  lastPolled: 1774724908.394958
+[Flatline] Stack  PID=15592  threads=11
+
+  --- FlatlineSnapshot  41292[d] ---
+    C:\Python312\Lib\threading.py:1030 in _bootstrap
+      self._bootstrap_inner()
+    C:\Python312\Lib\threading.py:1073 in _bootstrap_inner
+      self.run()
+    C:\Python312\Lib\threading.py:1010 in run
+      self._target(*self._args, **self._kwargs)
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1309 in _r
+      try: target()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1216 in _run
+      stack = '\n'.join(header) + self._frames()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1243 in _frames
+      for item in traceback.extract_stack(frame):
+
+  --- FlatlineKeyReader  2740[d] ---
+    C:\Python312\Lib\threading.py:1030 in _bootstrap
+      self._bootstrap_inner()
+    C:\Python312\Lib\threading.py:1073 in _bootstrap_inner
+      self.run()
+    C:\Python312\Lib\threading.py:1010 in run
+      self._target(*self._args, **self._kwargs)
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1309 in _r
+      try: target()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:773 in _keyReader
+      self._keyReaderWindows()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:798 in _keyReaderWindows
+      time.sleep(0.05)
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:827 in _openManualDebug
+      self._openConsole({
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1027 in _openConsole
+      if block:
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1231 in _snapshotAsync
+      t.start()
+    C:\Python312\Lib\threading.py:997 in start
+      self._started.wait()
+    C:\Python312\Lib\threading.py:652 in wait
+      with self._cond:
+    C:\Python312\Lib\threading.py:365 in wait
+      if not gotit:
+
+  --- FlatlinePoll  43444[d] ---
+    C:\Python312\Lib\threading.py:1030 in _bootstrap
+      self._bootstrap_inner()
+    C:\Python312\Lib\threading.py:1073 in _bootstrap_inner
+      self.run()
+    C:\Python312\Lib\threading.py:1010 in run
+      self._target(*self._args, **self._kwargs)
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1309 in _r
+      try: target()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:851 in _pollLoop
+      while not self._pollStop.wait(self._pollInterval):
+    C:\Python312\Lib\threading.py:655 in wait
+      signaled = self._cond.wait(timeout)
+    C:\Python312\Lib\threading.py:359 in wait
+      gotit = waiter.acquire(True, timeout)
+
+  --- FlatlinePump:stderr  35960[d] ---
+    C:\Python312\Lib\threading.py:1030 in _bootstrap
+      self._bootstrap_inner()
+    C:\Python312\Lib\threading.py:1073 in _bootstrap_inner
+      self.run()
+    C:\Python312\Lib\threading.py:1010 in run
+      self._target(*self._args, **self._kwargs)
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1309 in _r
+      try: target()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1383 in _run
+      for line in pipe:
+
+  --- FlatlinePump:stdout  30164[d] ---
+    C:\Python312\Lib\threading.py:1030 in _bootstrap
+      self._bootstrap_inner()
+    C:\Python312\Lib\threading.py:1073 in _bootstrap_inner
+      self.run()
+    C:\Python312\Lib\threading.py:1010 in run
+      self._target(*self._args, **self._kwargs)
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1309 in _r
+      try: target()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1383 in _run
+      for line in pipe:
+
+  --- FlatlineREPL  16060[d] ---
+    C:\Python312\Lib\threading.py:1030 in _bootstrap
+      self._bootstrap_inner()
+    C:\Python312\Lib\threading.py:1073 in _bootstrap_inner
+      self.run()
+    C:\Python312\Lib\threading.py:1010 in run
+      self._target(*self._args, **self._kwargs)
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1309 in _r
+      try: target()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:960 in <lambda>
+      target=self._wrap(lambda: self._replServer.serve_forever(poll_interval=0.5), 'REPL'),
+    C:\Python312\Lib\socketserver.py:235 in serve_forever
+      ready = selector.select(poll_interval)
+    C:\Python312\Lib\selectors.py:323 in select
+      r, w, _ = self._select(self._readers, self._writers, [], timeout)
+    C:\Python312\Lib\selectors.py:314 in _select
+      r, w, x = select.select(r, w, w, timeout)
+
+  --- FlatlineStatus  24288[d] ---
+    C:\Python312\Lib\threading.py:1030 in _bootstrap
+      self._bootstrap_inner()
+    C:\Python312\Lib\threading.py:1073 in _bootstrap_inner
+      self.run()
+    C:\Python312\Lib\threading.py:1010 in run
+      self._target(*self._args, **self._kwargs)
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1309 in _r
+      try: target()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1152 in _statusLoop
+      while not self._statusStop.wait(0.10):
+    C:\Python312\Lib\threading.py:655 in wait
+      signaled = self._cond.wait(timeout)
+    C:\Python312\Lib\threading.py:359 in wait
+      gotit = waiter.acquire(True, timeout)
+
+  --- FlatlineConsole  9476 ---
+    C:\Python312\Lib\threading.py:1030 in _bootstrap
+      self._bootstrap_inner()
+    C:\Python312\Lib\threading.py:1073 in _bootstrap_inner
+      self.run()
+    C:\Python312\Lib\threading.py:1010 in run
+      self._target(*self._args, **self._kwargs)
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1309 in _r
+      try: target()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1041 in _consoleLoop
+      cmd = input('[Flatline] > ')
+    C:\Python312\Lib\threading.py:652 in wait
+      with self._cond:
+    C:\Python312\Lib\threading.py:365 in wait
+      if not gotit:
+
+  --- FlatlineWatchdog  39128 ---
+    C:\Python312\Lib\threading.py:1030 in _bootstrap
+      self._bootstrap_inner()
+    C:\Python312\Lib\threading.py:1073 in _bootstrap_inner
+      self.run()
+    C:\Python312\Lib\threading.py:1010 in run
+      self._target(*self._args, **self._kwargs)
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1309 in _r
+      try: target()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:973 in _watchdog
+      while not self._consoleStop.wait(self._pollInterval):
+    C:\Python312\Lib\threading.py:655 in wait
+      signaled = self._cond.wait(timeout)
+    C:\Python312\Lib\threading.py:359 in wait
+      gotit = waiter.acquire(True, timeout)
+
+  --- FlatlineRelay  9744[d] ---
+    C:\Python312\Lib\threading.py:1030 in _bootstrap
+      self._bootstrap_inner()
+    C:\Python312\Lib\threading.py:1073 in _bootstrap_inner
+      self.run()
+    C:\Python312\Lib\threading.py:1010 in run
+      self._target(*self._args, **self._kwargs)
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1309 in _r
+      try: target()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:896 in <lambda>
+      target=self._wrap(lambda: self._relayServer.serve_forever(poll_interval=0.5), 'Relay'),
+    C:\Python312\Lib\socketserver.py:235 in serve_forever
+      ready = selector.select(poll_interval)
+    C:\Python312\Lib\selectors.py:323 in select
+      r, w, _ = self._select(self._readers, self._writers, [], timeout)
+    C:\Python312\Lib\selectors.py:314 in _select
+      r, w, x = select.select(r, w, w, timeout)
+
+  --- MainThread  3668[MAIN] ---
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1467 in <module>
+      raise SystemExit(main())
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1461 in main
+      return dbg.wait()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:637 in wait
+      time.sleep(0.05)
+[Flatline] Child launched  pid=1728  argv=C:\Users\moren\Desktop\flatline_v1.0b\flatline\example.py
+[stdout] Flatline Example � v1.0b  (2026-03-28)
+[stdout] Supervising  : C:\Users\moren\Desktop\flatline_v1.0b\flatline\app.py
+[stdout] MD5          : 9eff10f3
+[stdout] Extra args   : (none)
+[stdout] [Flatline] Heartbeat mode: proc.poll()
+[stdout] [Flatline] Relay  127.0.0.1:54479
+[stdout] [Flatline] Watchdog  freeze=2.5s  mode=poll
+[stdout] [Flatline] REPL  127.0.0.1:5050  (nc localhost 5050)
+[stdout] [example] Relay port : 54479
+[stdout] [example] Socket REPL: nc localhost 5050
+[stdout] [example] Ctrl+C to terminate child
+[Flatline] Child launched  pid=5484  argv=C:\Users\moren\Desktop\flatline_v1.0b\flatline\app.py
+[stdout] [Flatline] Child launched  pid=5484
+[stdout] [Flatline] Attached pid=5484
+[stdout] [example] Child exited: 0
+[Flatline] Child launched  pid=35432  argv=C:\Users\moren\Desktop\flatline_v1.0b\flatline\example.py
+[stdout] Flatline Example � v1.0b  (2026-03-28)
+[stdout] Supervising  : C:\Users\moren\Desktop\flatline_v1.0b\flatline\app.py
+[stdout] MD5          : 9eff10f3
+[stdout] Extra args   : (none)
+[stdout] [Flatline] Heartbeat mode: proc.poll()
+[stdout] [Flatline] Relay  127.0.0.1:55007
+[stdout] [Flatline] Watchdog  freeze=2.5s  mode=poll
+[stdout] [Flatline] REPL  127.0.0.1:5050  (nc localhost 5050)
+[stdout] [example] Relay port : 55007
+[stdout] [example] Socket REPL: nc localhost 5050
+[stdout] [example] Ctrl+C to terminate child
+[Flatline] Child launched  pid=27376  argv=C:\Users\moren\Desktop\flatline_v1.0b\flatline\app.py
+[stdout] [Flatline] Child launched  pid=27376
+[stdout] [Flatline] Attached pid=27376
+
+╔══════════════════════════════════════════════════════════════╗
+║                    Flatline Debug Console                    ║
+╠══════════════════════════════════════════════════════════════╣
+║  [FLATLINED TODAY @ 15:38:04.173738 after INIT]              ║
+║  Exception : ManualDebug: Manually entered debug console (D key)║
+║  Parent PID: 39652   Child PID: 35432                        ║
+║  Mode      : proc.poll()                                     ║
+║  lastPolled : 1774726684.173738                              ║
+║  Time      : 2026-03-28 15:38:04                             ║
+╠══════════════════════════════════════════════════════════════╣
+║  1 stack   2 vars    3 close   4 SIGTERM  5 KILL        ║
+║  6 refresh 7 shell   8 conns   9 monitor                ║
+║  R restart S status  Q quit                              ║
+╚══════════════════════════════════════════════════════════════╝
+================================================================
+  SNAPSHOT
+================================================================
+  [FLATLINED TODAY @ 15:38:04.173738 after INIT]
+  Exception: ManualDebug: Manually entered debug console (D key)
+  PID: 35432  Mode: poll
+  lastPolled: 1774726684.173738
+[Flatline] Stack  PID=39652  threads=11
+
+  --- FlatlineSnapshot  34236[d] ---
+    C:\Python312\Lib\threading.py:1030 in _bootstrap
+      self._bootstrap_inner()
+    C:\Python312\Lib\threading.py:1073 in _bootstrap_inner
+      self.run()
+    C:\Python312\Lib\threading.py:1010 in run
+      self._target(*self._args, **self._kwargs)
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1309 in _r
+      try: target()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1216 in _run
+      stack = '\n'.join(header) + self._frames()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1243 in _frames
+      for item in traceback.extract_stack(frame):
+
+  --- FlatlineKeyReader  19412[d] ---
+    C:\Python312\Lib\threading.py:1030 in _bootstrap
+      self._bootstrap_inner()
+    C:\Python312\Lib\threading.py:1073 in _bootstrap_inner
+      self.run()
+    C:\Python312\Lib\threading.py:1010 in run
+      self._target(*self._args, **self._kwargs)
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1309 in _r
+      try: target()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:773 in _keyReader
+      self._keyReaderWindows()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:798 in _keyReaderWindows
+      time.sleep(0.05)
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:827 in _openManualDebug
+      self._openConsole({
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1027 in _openConsole
+      if block:
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1231 in _snapshotAsync
+      t.start()
+    C:\Python312\Lib\threading.py:997 in start
+      self._started.wait()
+    C:\Python312\Lib\threading.py:652 in wait
+      with self._cond:
+    C:\Python312\Lib\threading.py:365 in wait
+      if not gotit:
+
+  --- FlatlinePoll  26860[d] ---
+    C:\Python312\Lib\threading.py:1030 in _bootstrap
+      self._bootstrap_inner()
+    C:\Python312\Lib\threading.py:1073 in _bootstrap_inner
+      self.run()
+    C:\Python312\Lib\threading.py:1010 in run
+      self._target(*self._args, **self._kwargs)
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1309 in _r
+      try: target()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:851 in _pollLoop
+      while not self._pollStop.wait(self._pollInterval):
+    C:\Python312\Lib\threading.py:655 in wait
+      signaled = self._cond.wait(timeout)
+    C:\Python312\Lib\threading.py:359 in wait
+      gotit = waiter.acquire(True, timeout)
+
+  --- FlatlinePump:stderr  31540[d] ---
+    C:\Python312\Lib\threading.py:1030 in _bootstrap
+      self._bootstrap_inner()
+    C:\Python312\Lib\threading.py:1073 in _bootstrap_inner
+      self.run()
+    C:\Python312\Lib\threading.py:1010 in run
+      self._target(*self._args, **self._kwargs)
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1309 in _r
+      try: target()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1383 in _run
+      for line in pipe:
+
+  --- FlatlinePump:stdout  28640[d] ---
+    C:\Python312\Lib\threading.py:1030 in _bootstrap
+      self._bootstrap_inner()
+    C:\Python312\Lib\threading.py:1073 in _bootstrap_inner
+      self.run()
+    C:\Python312\Lib\threading.py:1010 in run
+      self._target(*self._args, **self._kwargs)
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1309 in _r
+      try: target()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1383 in _run
+      for line in pipe:
+
+  --- FlatlineREPL  37324[d] ---
+    C:\Python312\Lib\threading.py:1030 in _bootstrap
+      self._bootstrap_inner()
+    C:\Python312\Lib\threading.py:1073 in _bootstrap_inner
+      self.run()
+    C:\Python312\Lib\threading.py:1010 in run
+      self._target(*self._args, **self._kwargs)
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1309 in _r
+      try: target()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:960 in <lambda>
+      target=self._wrap(lambda: self._replServer.serve_forever(poll_interval=0.5), 'REPL'),
+    C:\Python312\Lib\socketserver.py:235 in serve_forever
+      ready = selector.select(poll_interval)
+    C:\Python312\Lib\selectors.py:323 in select
+      r, w, _ = self._select(self._readers, self._writers, [], timeout)
+    C:\Python312\Lib\selectors.py:314 in _select
+      r, w, x = select.select(r, w, w, timeout)
+
+  --- FlatlineStatus  6900[d] ---
+    C:\Python312\Lib\threading.py:1030 in _bootstrap
+      self._bootstrap_inner()
+    C:\Python312\Lib\threading.py:1073 in _bootstrap_inner
+      self.run()
+    C:\Python312\Lib\threading.py:1010 in run
+      self._target(*self._args, **self._kwargs)
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1309 in _r
+      try: target()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1152 in _statusLoop
+      while not self._statusStop.wait(0.10):
+    C:\Python312\Lib\threading.py:652 in wait
+      with self._cond:
+    C:\Python312\Lib\threading.py:367 in wait
+      self._waiters.remove(waiter)
+
+  --- FlatlineConsole  17052 ---
+    C:\Python312\Lib\threading.py:1030 in _bootstrap
+      self._bootstrap_inner()
+    C:\Python312\Lib\threading.py:1073 in _bootstrap_inner
+      self.run()
+    C:\Python312\Lib\threading.py:1010 in run
+      self._target(*self._args, **self._kwargs)
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1309 in _r
+      try: target()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1041 in _consoleLoop
+      cmd = input('[Flatline] > ')
+    C:\Python312\Lib\threading.py:652 in wait
+      with self._cond:
+    C:\Python312\Lib\threading.py:365 in wait
+      if not gotit:
+
+  --- FlatlineWatchdog  20804 ---
+    C:\Python312\Lib\threading.py:1030 in _bootstrap
+      self._bootstrap_inner()
+    C:\Python312\Lib\threading.py:1073 in _bootstrap_inner
+      self.run()
+    C:\Python312\Lib\threading.py:1010 in run
+      self._target(*self._args, **self._kwargs)
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1309 in _r
+      try: target()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:973 in _watchdog
+      while not self._consoleStop.wait(self._pollInterval):
+    C:\Python312\Lib\threading.py:655 in wait
+      signaled = self._cond.wait(timeout)
+    C:\Python312\Lib\threading.py:359 in wait
+      gotit = waiter.acquire(True, timeout)
+
+  --- FlatlineRelay  5124[d] ---
+    C:\Python312\Lib\threading.py:1030 in _bootstrap
+      self._bootstrap_inner()
+    C:\Python312\Lib\threading.py:1073 in _bootstrap_inner
+      self.run()
+    C:\Python312\Lib\threading.py:1010 in run
+      self._target(*self._args, **self._kwargs)
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1309 in _r
+      try: target()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:896 in <lambda>
+      target=self._wrap(lambda: self._relayServer.serve_forever(poll_interval=0.5), 'Relay'),
+    C:\Python312\Lib\socketserver.py:235 in serve_forever
+      ready = selector.select(poll_interval)
+    C:\Python312\Lib\selectors.py:323 in select
+      r, w, _ = self._select(self._readers, self._writers, [], timeout)
+    C:\Python312\Lib\selectors.py:314 in _select
+      r, w, x = select.select(r, w, w, timeout)
+
+  --- MainThread  26936[MAIN] ---
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1467 in <module>
+      raise SystemExit(main())
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1461 in main
+      return dbg.wait()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:637 in wait
+      time.sleep(0.05)
+[stderr] \u2554\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2557
+[stderr] \u2551                    Flatline Debug Console                    \u2551
+
+╔══════════════════════════════════════════════════════════════╗
+║                    Flatline Debug Console                    ║
+╠══════════════════════════════════════════════════════════════╣
+║  [FLATLINED TODAY @ 15:38:19.363752 after SHOW in Flatline::AppWindow]║
+║  Exception : ManualDebug: Manually entered debug console (D key)║
+║  Parent PID: 35432   Child PID: 27376                        ║
+║  Mode      : proc.poll()                                     ║
+║  lastPolled : 1774726699.363752                              ║
+║  Time      : 2026-03-28 15:38:20                             ║
+╠══════════════════════════════════════════════════════════════╣
+║  1 stack   2 vars    3 close   4 SIGTERM  5 KILL        ║
+║  6 refresh 7 shell   8 conns   9 monitor                ║
+║  R restart S status  Q quit                              ║
+╚══════════════════════════════════════════════════════════════╝
+[stderr] \u2560\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2563
+[stderr] \u2551  [FLATLINED TODAY @ 15:38:19.363752 after SHOW in Flatline::AppWindow]\u2551
+[stdout] [Flatline] >
+[stderr] \u2551  Exception : ManualDebug: Manually entered debug console (D key)\u2551
+[stderr] \u2551  Parent PID: 35432   Child PID: 27376                        \u2551
+[stderr] \u2551  Mode      : proc.poll()                                     \u2551
+[stderr] \u2551  lastPolled : 1774726699.363752                              \u2551
+[stderr] \u2551  Time      : 2026-03-28 15:38:20                             \u2551
+[stderr] \u2560\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2563
+[stderr] \u2551  1 stack   2 vars    3 close   4 SIGTERM  5 KILL        \u2551
+[stderr] \u2551  6 refresh 7 shell   8 conns   9 monitor                \u2551
+[stderr] \u2551  R restart S status  Q quit                              \u2551
+[stderr] \u255a\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u255d
+[stderr] [Flatline] Console closed
+================================================================
+  SNAPSHOT
+================================================================
+  [FLATLINED TODAY @ 15:38:19.363752 after SHOW in Flatline::AppWindow]
+  Exception: ManualDebug: Manually entered debug console (D key)
+  PID: 27376  Mode: poll
+  lastPolled: 1774726699.363752
+[Flatline] Stack  PID=35432  threads=11
+
+  --- FlatlineSnapshot  16764[d] ---
+    C:\Python312\Lib\threading.py:1030 in _bootstrap
+      self._bootstrap_inner()
+    C:\Python312\Lib\threading.py:1073 in _bootstrap_inner
+      self.run()
+    C:\Python312\Lib\threading.py:1010 in run
+      self._target(*self._args, **self._kwargs)
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1309 in _r
+      try: target()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1216 in _run
+      stack = '\n'.join(header) + self._frames()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1243 in _frames
+      for item in traceback.extract_stack(frame):
+
+  --- FlatlineKeyReader  20148[d] ---
+    C:\Python312\Lib\threading.py:1030 in _bootstrap
+      self._bootstrap_inner()
+    C:\Python312\Lib\threading.py:1073 in _bootstrap_inner
+      self.run()
+    C:\Python312\Lib\threading.py:1010 in run
+      self._target(*self._args, **self._kwargs)
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1309 in _r
+      try: target()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:773 in _keyReader
+      self._keyReaderWindows()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:798 in _keyReaderWindows
+      time.sleep(0.05)
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:827 in _openManualDebug
+      self._openConsole({
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1027 in _openConsole
+      if block:
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1231 in _snapshotAsync
+      t.start()
+    C:\Python312\Lib\threading.py:997 in start
+      self._started.wait()
+    C:\Python312\Lib\threading.py:652 in wait
+      with self._cond:
+    C:\Python312\Lib\threading.py:365 in wait
+      if not gotit:
+
+  --- FlatlinePoll  5052[d] ---
+    C:\Python312\Lib\threading.py:1030 in _bootstrap
+      self._bootstrap_inner()
+    C:\Python312\Lib\threading.py:1073 in _bootstrap_inner
+      self.run()
+    C:\Python312\Lib\threading.py:1010 in run
+      self._target(*self._args, **self._kwargs)
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1309 in _r
+      try: target()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:851 in _pollLoop
+      while not self._pollStop.wait(self._pollInterval):
+    C:\Python312\Lib\threading.py:655 in wait
+      signaled = self._cond.wait(timeout)
+    C:\Python312\Lib\threading.py:359 in wait
+      gotit = waiter.acquire(True, timeout)
+
+  --- FlatlinePump:stderr  42140[d] ---
+    C:\Python312\Lib\threading.py:1030 in _bootstrap
+      self._bootstrap_inner()
+    C:\Python312\Lib\threading.py:1073 in _bootstrap_inner
+      self.run()
+    C:\Python312\Lib\threading.py:1010 in run
+      self._target(*self._args, **self._kwargs)
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1309 in _r
+      try: target()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1383 in _run
+      for line in pipe:
+
+  --- FlatlinePump:stdout  30804[d] ---
+    C:\Python312\Lib\threading.py:1030 in _bootstrap
+      self._bootstrap_inner()
+    C:\Python312\Lib\threading.py:1073 in _bootstrap_inner
+      self.run()
+    C:\Python312\Lib\threading.py:1010 in run
+      self._target(*self._args, **self._kwargs)
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1309 in _r
+      try: target()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1383 in _run
+      for line in pipe:
+
+  --- FlatlineREPL  41364[d] ---
+    C:\Python312\Lib\threading.py:1030 in _bootstrap
+      self._bootstrap_inner()
+    C:\Python312\Lib\threading.py:1073 in _bootstrap_inner
+      self.run()
+    C:\Python312\Lib\threading.py:1010 in run
+      self._target(*self._args, **self._kwargs)
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1309 in _r
+      try: target()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:960 in <lambda>
+      target=self._wrap(lambda: self._replServer.serve_forever(poll_interval=0.5), 'REPL'),
+    C:\Python312\Lib\socketserver.py:235 in serve_forever
+      ready = selector.select(poll_interval)
+    C:\Python312\Lib\selectors.py:323 in select
+      r, w, _ = self._select(self._readers, self._writers, [], timeout)
+    C:\Python312\Lib\selectors.py:314 in _select
+      r, w, x = select.select(r, w, w, timeout)
+
+  --- FlatlineStatus  18588[d] ---
+    C:\Python312\Lib\threading.py:1030 in _bootstrap
+      self._bootstrap_inner()
+    C:\Python312\Lib\threading.py:1073 in _bootstrap_inner
+      self.run()
+    C:\Python312\Lib\threading.py:1010 in run
+      self._target(*self._args, **self._kwargs)
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1309 in _r
+      try: target()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1152 in _statusLoop
+      while not self._statusStop.wait(0.10):
+    C:\Python312\Lib\threading.py:652 in wait
+      with self._cond:
+    C:\Python312\Lib\threading.py:367 in wait
+      self._waiters.remove(waiter)
+
+  --- FlatlineConsole  18224 ---
+    C:\Python312\Lib\threading.py:1030 in _bootstrap
+      self._bootstrap_inner()
+    C:\Python312\Lib\threading.py:1073 in _bootstrap_inner
+      self.run()
+    C:\Python312\Lib\threading.py:1010 in run
+      self._target(*self._args, **self._kwargs)
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1309 in _r
+      try: target()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1033 in _consoleLoop
+      self._consoleWake.wait()
+    C:\Python312\Lib\threading.py:652 in wait
+      with self._cond:
+    C:\Python312\Lib\threading.py:365 in wait
+      if not gotit:
+
+  --- FlatlineWatchdog  12792 ---
+    C:\Python312\Lib\threading.py:1030 in _bootstrap
+      self._bootstrap_inner()
+    C:\Python312\Lib\threading.py:1073 in _bootstrap_inner
+      self.run()
+    C:\Python312\Lib\threading.py:1010 in run
+      self._target(*self._args, **self._kwargs)
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1309 in _r
+      try: target()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:973 in _watchdog
+      while not self._consoleStop.wait(self._pollInterval):
+    C:\Python312\Lib\threading.py:655 in wait
+      signaled = self._cond.wait(timeout)
+    C:\Python312\Lib\threading.py:359 in wait
+      gotit = waiter.acquire(True, timeout)
+
+  --- FlatlineRelay  35008[d] ---
+    C:\Python312\Lib\threading.py:1030 in _bootstrap
+      self._bootstrap_inner()
+    C:\Python312\Lib\threading.py:1073 in _bootstrap_inner
+      self.run()
+    C:\Python312\Lib\threading.py:1010 in run
+      self._target(*self._args, **self._kwargs)
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1309 in _r
+      try: target()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:896 in <lambda>
+      target=self._wrap(lambda: self._relayServer.serve_forever(poll_interval=0.5), 'Relay'),
+    C:\Python312\Lib\socketserver.py:235 in serve_forever
+      ready = selector.select(poll_interval)
+    C:\Python312\Lib\selectors.py:323 in select
+      r, w, _ = self._select(self._readers, self._writers, [], timeout)
+    C:\Python312\Lib\selectors.py:314 in _select
+      r, w, x = select.select(r, w, w, timeout)
+
+  --- MainThread  27660[MAIN] ---
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\example.py:101 in <module>
+      exit_code = debugger.wait()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:637 in wait
+      time.sleep(0.05)
+
+╔══════════════════════════════════════════════════════════════╗
+║                    Flatline Debug Console                    ║
+╠══════════════════════════════════════════════════════════════╣
+║  [FLATLINED TODAY @ 15:38:21.299466 after INIT]              ║
+║  Exception : ManualDebug: Manually entered debug console (D key)║
+║  Parent PID: 39652   Child PID: 35432                        ║
+║  Mode      : proc.poll()                                     ║
+║  lastPolled : 1774726701.299466                              ║
+║  Time      : 2026-03-28 15:38:21                             ║
+╠══════════════════════════════════════════════════════════════╣
+║  1 stack   2 vars    3 close   4 SIGTERM  5 KILL        ║
+║  6 refresh 7 shell   8 conns   9 monitor                ║
+║  R restart S status  Q quit                              ║
+╚══════════════════════════════════════════════════════════════╝
+================================================================
+  SNAPSHOT
+================================================================
+  [FLATLINED TODAY @ 15:38:21.299466 after INIT]
+  Exception: ManualDebug: Manually entered debug console (D key)
+  PID: 35432  Mode: poll
+  lastPolled: 1774726701.299466
+[Flatline] Stack  PID=39652  threads=11
+
+  --- FlatlineSnapshot  39656[d] ---
+    C:\Python312\Lib\threading.py:1030 in _bootstrap
+      self._bootstrap_inner()
+    C:\Python312\Lib\threading.py:1073 in _bootstrap_inner
+      self.run()
+    C:\Python312\Lib\threading.py:1010 in run
+      self._target(*self._args, **self._kwargs)
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1309 in _r
+      try: target()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1216 in _run
+      stack = '\n'.join(header) + self._frames()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1243 in _frames
+      for item in traceback.extract_stack(frame):
+
+  --- FlatlineKeyReader  19412[d] ---
+    C:\Python312\Lib\threading.py:1030 in _bootstrap
+      self._bootstrap_inner()
+    C:\Python312\Lib\threading.py:1073 in _bootstrap_inner
+      self.run()
+    C:\Python312\Lib\threading.py:1010 in run
+      self._target(*self._args, **self._kwargs)
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1309 in _r
+      try: target()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:773 in _keyReader
+      self._keyReaderWindows()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:798 in _keyReaderWindows
+      time.sleep(0.05)
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:827 in _openManualDebug
+      self._openConsole({
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1027 in _openConsole
+      if block:
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1231 in _snapshotAsync
+      t.start()
+    C:\Python312\Lib\threading.py:997 in start
+      self._started.wait()
+    C:\Python312\Lib\threading.py:652 in wait
+      with self._cond:
+    C:\Python312\Lib\threading.py:365 in wait
+      if not gotit:
+
+  --- FlatlinePoll  26860[d] ---
+    C:\Python312\Lib\threading.py:1030 in _bootstrap
+      self._bootstrap_inner()
+    C:\Python312\Lib\threading.py:1073 in _bootstrap_inner
+      self.run()
+    C:\Python312\Lib\threading.py:1010 in run
+      self._target(*self._args, **self._kwargs)
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1309 in _r
+      try: target()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:851 in _pollLoop
+      while not self._pollStop.wait(self._pollInterval):
+    C:\Python312\Lib\threading.py:655 in wait
+      signaled = self._cond.wait(timeout)
+    C:\Python312\Lib\threading.py:359 in wait
+      gotit = waiter.acquire(True, timeout)
+
+  --- FlatlinePump:stderr  31540[d] ---
+    C:\Python312\Lib\threading.py:1030 in _bootstrap
+      self._bootstrap_inner()
+    C:\Python312\Lib\threading.py:1073 in _bootstrap_inner
+      self.run()
+    C:\Python312\Lib\threading.py:1010 in run
+      self._target(*self._args, **self._kwargs)
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1309 in _r
+      try: target()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1383 in _run
+      for line in pipe:
+
+  --- FlatlinePump:stdout  28640[d] ---
+    C:\Python312\Lib\threading.py:1030 in _bootstrap
+      self._bootstrap_inner()
+    C:\Python312\Lib\threading.py:1073 in _bootstrap_inner
+      self.run()
+    C:\Python312\Lib\threading.py:1010 in run
+      self._target(*self._args, **self._kwargs)
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1309 in _r
+      try: target()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1383 in _run
+      for line in pipe:
+
+  --- FlatlineREPL  37324[d] ---
+    C:\Python312\Lib\threading.py:1030 in _bootstrap
+      self._bootstrap_inner()
+    C:\Python312\Lib\threading.py:1073 in _bootstrap_inner
+      self.run()
+    C:\Python312\Lib\threading.py:1010 in run
+      self._target(*self._args, **self._kwargs)
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1309 in _r
+      try: target()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:960 in <lambda>
+      target=self._wrap(lambda: self._replServer.serve_forever(poll_interval=0.5), 'REPL'),
+    C:\Python312\Lib\socketserver.py:235 in serve_forever
+      ready = selector.select(poll_interval)
+    C:\Python312\Lib\selectors.py:323 in select
+      r, w, _ = self._select(self._readers, self._writers, [], timeout)
+    C:\Python312\Lib\selectors.py:314 in _select
+      r, w, x = select.select(r, w, w, timeout)
+
+  --- FlatlineStatus  6900[d] ---
+    C:\Python312\Lib\threading.py:1030 in _bootstrap
+      self._bootstrap_inner()
+    C:\Python312\Lib\threading.py:1073 in _bootstrap_inner
+      self.run()
+    C:\Python312\Lib\threading.py:1010 in run
+      self._target(*self._args, **self._kwargs)
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1309 in _r
+      try: target()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1152 in _statusLoop
+      while not self._statusStop.wait(0.10):
+    C:\Python312\Lib\threading.py:655 in wait
+      signaled = self._cond.wait(timeout)
+    C:\Python312\Lib\threading.py:359 in wait
+      gotit = waiter.acquire(True, timeout)
+
+  --- FlatlineConsole  17052 ---
+    C:\Python312\Lib\threading.py:1030 in _bootstrap
+      self._bootstrap_inner()
+    C:\Python312\Lib\threading.py:1073 in _bootstrap_inner
+      self.run()
+    C:\Python312\Lib\threading.py:1010 in run
+      self._target(*self._args, **self._kwargs)
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1309 in _r
+      try: target()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1037 in _consoleLoop
+      self._banner()
+    C:\Python312\Lib\threading.py:652 in wait
+      with self._cond:
+    C:\Python312\Lib\threading.py:365 in wait
+      if not gotit:
+
+  --- FlatlineWatchdog  20804 ---
+    C:\Python312\Lib\threading.py:1030 in _bootstrap
+      self._bootstrap_inner()
+    C:\Python312\Lib\threading.py:1073 in _bootstrap_inner
+      self.run()
+    C:\Python312\Lib\threading.py:1010 in run
+      self._target(*self._args, **self._kwargs)
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1309 in _r
+      try: target()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:973 in _watchdog
+      while not self._consoleStop.wait(self._pollInterval):
+    C:\Python312\Lib\threading.py:655 in wait
+      signaled = self._cond.wait(timeout)
+    C:\Python312\Lib\threading.py:359 in wait
+      gotit = waiter.acquire(True, timeout)
+
+  --- FlatlineRelay  5124[d] ---
+    C:\Python312\Lib\threading.py:1030 in _bootstrap
+      self._bootstrap_inner()
+    C:\Python312\Lib\threading.py:1073 in _bootstrap_inner
+      self.run()
+    C:\Python312\Lib\threading.py:1010 in run
+      self._target(*self._args, **self._kwargs)
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1309 in _r
+      try: target()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:896 in <lambda>
+      target=self._wrap(lambda: self._relayServer.serve_forever(poll_interval=0.5), 'Relay'),
+    C:\Python312\Lib\socketserver.py:235 in serve_forever
+      ready = selector.select(poll_interval)
+    C:\Python312\Lib\selectors.py:323 in select
+      r, w, _ = self._select(self._readers, self._writers, [], timeout)
+    C:\Python312\Lib\selectors.py:314 in _select
+      r, w, x = select.select(r, w, w, timeout)
+
+  --- MainThread  26936[MAIN] ---
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1467 in <module>
+      raise SystemExit(main())
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:1461 in main
+      return dbg.wait()
+    C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:637 in wait
+      time.sleep(0.05)
+[stdout] [example] Child exited: 0

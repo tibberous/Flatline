@@ -1,0 +1,140 @@
+
+  -- Variables --
+
+  C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:648 in wait
+    self = <flatline.Flatline object at 0x000002973C693620>
+    proc = <Popen: returncode: None args: ['C:\\Python312\\python.exe', 'C:\\Users\\mor...>
+    code = None
+  childPid      = 39176
+  childExit     = None
+  mode          = poll
+  lastPolled    = 1774724536.674796
+  lastHB        = SHOW @ 1774724536.674796
+  caller        = AppWindow
+  pollFails     = 0
+
+  -- Variables --
+
+  C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:648 in wait
+    self = <flatline.Flatline object at 0x000002973C693620>
+    proc = <Popen: returncode: None args: ['C:\\Python312\\python.exe', 'C:\\Users\\mor...>
+    code = None
+  childPid      = 39176
+  childExit     = None
+  mode          = poll
+  lastPolled    = 1774724540.693345
+  lastHB        = SHOW @ 1774724540.693345
+  caller        = AppWindow
+  pollFails     = 0
+
+  -- Variables --
+
+  C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:648 in wait
+    self = <flatline.Flatline object at 0x000002973C693620>
+    proc = <Popen: returncode: None args: ['C:\\Python312\\python.exe', 'C:\\Users\\mor...>
+    code = None
+  childPid      = 39176
+  childExit     = None
+  mode          = poll
+  lastPolled    = 1774724541.707933
+  lastHB        = SHOW @ 1774724541.707933
+  caller        = AppWindow
+  pollFails     = 0
+
+  -- Variables --
+
+  C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:648 in wait
+    self = <flatline.Flatline object at 0x000002973C693620>
+    proc = <Popen: returncode: None args: ['C:\\Python312\\python.exe', 'C:\\Users\\mor...>
+    code = None
+  childPid      = 39176
+  childExit     = None
+  mode          = poll
+  lastPolled    = 1774724542.723445
+  lastHB        = SHOW @ 1774724542.723445
+  caller        = AppWindow
+  pollFails     = 0
+
+  -- Variables --
+
+  C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:648 in wait
+    self = <__main__.Flatline object at 0x0000020CEFE26B10>
+    proc = <Popen: returncode: None args: ['C:\\Python312\\python.exe', 'C:\\Users\\mor...>
+    code = None
+  childPid      = 40380
+  childExit     = None
+  mode          = poll
+  lastPolled    = 1774724542.629022
+  lastHB        = INIT @ 1774724542.629022
+  caller        = 
+  pollFails     = 0
+
+  -- Variables --
+
+  C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:637 in wait
+    self = <flatline.Flatline object at 0x000001D30B3238F0>
+    proc = <Popen: returncode: None args: ['C:\\Python312\\python.exe', 'C:\\Users\\mor...>
+    code = None
+  childPid      = 19264
+  childExit     = None
+  mode          = poll
+  lastPolled    = 1774724906.459739
+  lastHB        = SHOW @ 1774724906.459739
+  caller        = AppWindow
+  pollFails     = 0
+
+  -- Variables --
+
+  C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:637 in wait
+    self = <__main__.Flatline object at 0x000002424487CFE0>
+    proc = <Popen: returncode: None args: ['C:\\Python312\\python.exe', 'C:\\Users\\mor...>
+    code = None
+  childPid      = 37536
+  childExit     = None
+  mode          = poll
+  lastPolled    = 1774724908.394958
+  lastHB        = INIT @ 1774724908.394958
+  caller        = 
+  pollFails     = 0
+
+  -- Variables --
+
+  C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:637 in wait
+    self = <__main__.Flatline object at 0x00000238682BCA70>
+    proc = <Popen: returncode: None args: ['C:\\Python312\\python.exe', 'C:\\Users\\mor...>
+    code = None
+  childPid      = 35432
+  childExit     = None
+  mode          = poll
+  lastPolled    = 1774726684.173738
+  lastHB        = INIT @ 1774726684.173738
+  caller        = 
+  pollFails     = 0
+
+  -- Variables --
+
+  C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:637 in wait
+    self = <flatline.Flatline object at 0x00000254B73D6990>
+    proc = <Popen: returncode: None args: ['C:\\Python312\\python.exe', 'C:\\Users\\mor...>
+    code = None
+  childPid      = 27376
+  childExit     = None
+  mode          = poll
+  lastPolled    = 1774726699.363752
+  lastHB        = SHOW @ 1774726699.363752
+  caller        = AppWindow
+  pollFails     = 0
+
+  -- Variables --
+
+  C:\Users\moren\Desktop\flatline_v1.0b\flatline\flatline.py:637 in wait
+    self = <__main__.Flatline object at 0x00000238682BCA70>
+    proc = <Popen: returncode: None args: ['C:\\Python312\\python.exe', 'C:\\Users\\mor...>
+    code = None
+  childPid      = 35432
+  childExit     = None
+  mode          = poll
+  lastPolled    = 1774726701.299466
+  lastHB        = INIT @ 1774726701.299466
+  caller        = 
+  pollFails     = 0
